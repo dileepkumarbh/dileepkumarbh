@@ -31,7 +31,7 @@
 <br>
 
 
-## 👀 My Competitive Programming Profiles
+<!-- ## 👀 My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -40,7 +40,7 @@
 	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>     
 	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
-</p>
+</p> -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
